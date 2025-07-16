@@ -1,0 +1,5 @@
+# Ignorar carpetas y archivos de Terraform
+.terraform/
+terraform.tfstate*
+terraform.tfvars
+*.backup
